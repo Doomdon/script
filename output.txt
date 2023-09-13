@@ -1,2451 +1,249 @@
 [
   {
+    "value": "realgarantiya.ru"
+  },
+  {
+    "value": "pki3.sertum-pro.ru"
+  },
+  {
+    "value": "dadata.ru"
+  },
+  {
     "value": "lanit.ru"
   },
   {
-    "value": "b2b-center.ru"
+    "value": "212.40.208.62"
   },
   {
-    "value": "qlikcloud.com"
+    "value": "212.40.193.62"
   },
   {
-    "value": "zspd-arm.elpts.ru"
+    "value": "rostelecom.ru"
   },
   {
-    "value": "app.lwks.com"
+    "value": "reestr-pki.ru"
   },
   {
-    "value": "iitrust.lk"
+    "value": "rt.ru"
   },
   {
-    "value": "bstatic.com"
+    "value": "finombudsman.ru"
   },
   {
-    "value": "mrecord.mts.ru"
-  },
-  {
-    "value": "toledo24.pro"
-  },
-  {
-    "value": "servicepipe.ru"
-  },
-  {
-    "value": "eventrocks.io"
-  },
-  {
-    "value": "cc.naufor.ru"
-  },
-  {
-    "value": "rugenerations.su"
-  },
-  {
-    "value": "5prism.ru"
-  },
-  {
-    "value": "rosbankcares.ru"
-  },
-  {
-    "value": "med157.ru"
-  },
-  {
-    "value": "mirea.ru"
-  },
-  {
-    "value": "msk.ru"
-  },
-  {
-    "value": "muiv.ru"
-  },
-  {
-    "value": "rosseti-lenenergo.ru"
-  },
-  {
-    "value": "auction-house.ru"
-  },
-  {
-    "value": "wwe-conferences.com"
-  },
-  {
-    "value": "kelloggs.ru"
-  },
-  {
-    "value": "lubyatovo.ru"
-  },
-  {
-    "value": "grouprelations.ru"
-  },
-  {
-    "value": "happy-job.ru"
-  },
-  {
-    "value": "symfony.com.ua"
-  },
-  {
-    "value": "dzen.ru"
-  },
-  {
-    "value": "carlsberggroup.com"
-  },
-  {
-    "value": "theheinekencompany.com"
-  },
-  {
-    "value": "galamart.ru"
-  },
-  {
-    "value": "metrolink-plus.com"
-  },
-  {
-    "value": "kaiten.ru"
-  },
-  {
-    "value": "sdi360.ru"
-  },
-  {
-    "value": "thstrom.ru"
-  },
-  {
-    "value": "t48.ru"
-  },
-  {
-    "value": "distkontrol.ru"
-  },
-  {
-    "value": "ukrzn.ru"
-  },
-  {
-    "value": "mbib.ru"
-  },
-  {
-    "value": "leboard.ru"
-  },
-  {
-    "value": "driff.ru"
-  },
-  {
-    "value": "automarket.ru"
-  },
-  {
-    "value": "sdo-ipo.ru"
-  },
-  {
-    "value": "assessty.com"
-  },
-  {
-    "value": "zdrav36.ru"
-  },
-  {
-    "value": "novostroyka39.ru"
-  },
-  {
-    "value": "ethic.center"
-  },
-  {
-    "value": "azlk.ru"
-  },
-  {
-    "value": "scoring.ru"
-  },
-  {
-    "value": "dongfengmotor.ru"
-  },
-  {
-    "value": "omoda.ru"
-  },
-  {
-    "value": "inventa.ru"
-  },
-  {
-    "value": "indeed-company.ru"
-  },
-  {
-    "value": "teamretro.com"
-  },
-  {
-    "value": "arbitr.ru"
-  },
-  {
-    "value": "supportkad.bot.one"
-  },
-  {
-    "value": "bootdey.com"
-  },
-  {
-    "value": "ask-dev.ru"
-  },
-  {
-    "value": "k-asap.eu"
-  },
-  {
-    "value": "k-asap.ru"
-  },
-  {
-    "value": "consultant.ru"
-  },
-  {
-    "value": "k-asap.com"
-  },
-  {
-    "value": "admon.ai"
-  },
-  {
-    "value": "glide.page"
-  },
-  {
-    "value": "profi-cpr.ru"
-  },
-  {
-    "value": "richart.ru"
-  },
-  {
-    "value": "moremania.info"
-  },
-  {
-    "value": "hse.ru"
-  },
-  {
-    "value": "91.225.194.47"
-  },
-  {
-    "value": "wallstreetprep.com"
-  },
-  {
-    "value": "arhead.io"
-  },
-  {
-    "value": "rolf.ru"
-  },
-  {
-    "value": "ranepa.ru"
-  },
-  {
-    "value": "msu.ru"
-  },
-  {
-    "value": "wbstatic.net"
-  },
-  {
-    "value": "gazvodstroy.ru"
-  },
-  {
-    "value": "bergauf.ru"
-  },
-  {
-    "value": "3di.ru"
-  },
-  {
-    "value": "ставрополь.рф"
-  },
-  {
-    "value": "cynergy.app"
-  },
-  {
-    "value": "carcity45.ru"
-  },
-  {
-    "value": "авторегион45.рф"
-  },
-  {
-    "value": "inter-co.ru"
-  },
-  {
-    "value": "hilton.ru"
-  },
-  {
-    "value": "leasingsales.ru"
-  },
-  {
-    "value": "saleschain.io"
-  },
-  {
-    "value": "corporatefinanceinstitute.com"
-  },
-  {
-    "value": "leasing-komissar.ru"
-  },
-  {
-    "value": "artemokrug.ru"
-  },
-  {
-    "value": "hhland.ru"
-  },
-  {
-    "value": "peopleinvestor.ru"
-  },
-  {
-    "value": "skyplaz.ru"
-  },
-  {
-    "value": "medisorb.ru"
-  },
-  {
-    "value": "bilight.biz"
-  },
-  {
-    "value": "tsktmb.ru"
-  },
-  {
-    "value": "tko31.ru"
-  },
-  {
-    "value": "catalog.prostodar.ru"
-  },
-  {
-    "value": "alfascan.ru"
-  },
-  {
-    "value": "transmed.ru"
-  },
-  {
-    "value": "voltyre-prom.ru"
-  },
-  {
-    "value": "2cyr.com"
-  },
-  {
-    "value": "1dogma.ru"
-  },
-  {
-    "value": "contecenter.ru"
-  },
-  {
-    "value": "портал-тп.рф"
-  },
-  {
-    "value": "средадляжизни.рф"
-  },
-  {
-    "value": "rosakhutor.com"
-  },
-  {
-    "value": "my.cynergy.app"
-  },
-  {
-    "value": "trendrealty.ru"
-  },
-  {
-    "value": "bngf.ru"
-  },
-  {
-    "value": "hyundai-avtorus.ru"
-  },
-  {
-    "value": "tal16.ru"
-  },
-  {
-    "value": "serinkataforez.com.tr"
-  },
-  {
-    "value": "ctitp.ru"
-  },
-  {
-    "value": "flamp.ru"
-  },
-  {
-    "value": "avancore.ru"
-  },
-  {
-    "value": "elotmarket.ru"
-  },
-  {
-    "value": "regiontorgi.ru"
-  },
-  {
-    "value": "rosakhutor"
-  },
-  {
-    "value": "barry-callebaut.com"
-  },
-  {
-    "value": "auctiontorgi"
-  },
-  {
-    "value": "goldenseed.ru"
-  },
-  {
-    "value": "bonnieandslide.ru"
-  },
-  {
-    "value": "btn.bz"
-  },
-  {
-    "value": "bngf.ru"
-  },
-  {
-    "value": "uptodown.com"
-  },
-  {
-    "value": "keycloak.sf-cloud.ru"
-  },
-  {
-    "value": "sferadela.com"
-  },
-  {
-    "value": "scanfactory.io"
-  },
-  {
-    "value": "firstmet.ru"
-  },
-  {
-    "value": "imd.org"
-  },
-  {
-    "value": "etp.artorg.online"
-  },
-  {
-    "value": "svyaznoy.ru"
-  },
-  {
-    "value": "alfagifts.ru"
-  },
-  {
-    "value": "torgi-ru.ru"
-  },
-  {
-    "value": "7gifts.ru"
-  },
-  {
-    "value": "cordiant.ru"
-  },
-  {
-    "value": "nic.ru"
-  },
-  {
-    "value": "ozonbankdocs.ru"
-  },
-  {
-    "value": "vaz.ru"
-  },
-  {
-    "value": "giftm.ru"
-  },
-  {
-    "value": "new.torg.msk.ru"
-  },
-  {
-    "value": "ict-kolyma.ru"
-  },
-  {
-    "value": "keno-tanaki.ru"
-  },
-  {
-    "value": "parsinger.ru"
-  },
-  {
-    "value": "egopay.ru"
-  },
-  {
-    "value": "cms.lenta.app4.3ebra.net"
-  },
-  {
-    "value": "gwm-global.com"
-  },
-  {
-    "value": "safe-mobile.ru"
-  },
-  {
-    "value": "fpmi-edu.ru"
-  },
-  {
-    "value": "mipt.ru"
-  },
-  {
-    "value": "promotivation.ru"
-  },
-  {
-    "value": "coderlessons.com"
-  },
-  {
-    "value": "4oio8.r.a.d.sendibm1.com"
-  },
-  {
-    "value": "calltracking.ru"
-  },
-  {
-    "value": "declarator.org"
-  },
-  {
-    "value": "cloud-wise.net"
-  },
-  {
-    "value": "gardatech.ru"
-  },
-  {
-    "value": "pinterest.ru"
-  },
-  {
-    "value": "kia-kurgan.ru"
-  },
-  {
-    "value": "dsm.ru"
-  },
-  {
-    "value": "highq.com"
-  },
-  {
-    "value": "mdprogrammatic.com"
-  },
-  {
-    "value": "alpinabo.mckw.ru"
-  },
-  {
-    "value": "departament-ipoteki.online"
-  },
-  {
-    "value": "gitraw.effectivetrade.ru"
-  },
-  {
-    "value": "etp-avtodor.ru"
-  },
-  {
-    "value": "icons8.com"
-  },
-  {
-    "value": "mixkit.co"
-  },
-  {
-    "value": "gacmotor.com.ru"
-  },
-  {
-    "value": "hihiclub.ru"
-  },
-  {
-    "value": "sro-edinstvo.net"
-  },
-  {
-    "value": "atomyze.ru"
-  },
-  {
-    "value": "loginom.ru"
-  },
-  {
-    "value": "dev.to"
-  },
-  {
-    "value": "gpmos.ru"
-  },
-  {
-    "value": "turkishairlines.com"
-  },
-  {
-    "value": "diskus-plus.com"
-  },
-  {
-    "value": "sense23.com"
-  },
-  {
-    "value": "hardclient.com"
-  },
-  {
-    "value": "e-notary.ru"
-  },
-  {
-    "value": "glvrd.ru"
-  },
-  {
-    "value": "mart-house.ru"
-  },
-  {
-    "value": "sfu-kras.ru"
-  },
-  {
-    "value": "rolf-altufievo.ru"
-  },
-  {
-    "value": "avto-russia.ru"
-  },
-  {
-    "value": "110km.ru"
-  },
-  {
-    "value": "autodmir.ru"
-  },
-  {
-    "value": "slurm.io"
-  },
-  {
-    "value": "pik.ru"
-  },
-  {
-    "value": "iitrust.lk"
-  },
-  {
-    "value": "rustore.ru"
-  },
-  {
-    "value": "a-b63.ru"
-  },
-  {
-    "value": "sroaas.ru"
-  },
-  {
-    "value": "webim.ru"
-  },
-  {
-    "value": "ndfl.tech"
-  },
-  {
-    "value": "realiste.io"
-  },
-  {
-    "value": "officedepo.ru"
-  },
-  {
-    "value": "nspkknowledge.ru"
-  },
-  {
-    "value": "mir-svarki.ru"
-  },
-  {
-    "value": "yale.edu"
-  },
-  {
-    "value": "reaktor24.ru"
-  },
-  {
-    "value": "smart-data.pro"
-  },
-  {
-    "value": "mazda.ru"
-  },
-  {
-    "value": "randstuff.ru"
-  },
-  {
-    "value": "ifx.ru"
-  },
-  {
-    "value": "cladovka72.ru"
-  },
-  {
-    "value": "virusanalyst.com"
-  },
-  {
-    "value": "rosseti-yug.ru"
-  },
-  {
-    "value": "am.pictet"
-  },
-  {
-    "value": "svrpk.ru"
-  },
-  {
-    "value": "spbclearing.ru"
-  },
-  {
-    "value": "nlmk.com"
-  },
-  {
-    "value": "alpina.help"
-  },
-  {
-    "value": "rapida.ru"
-  },
-  {
-    "value": "pravilamag.ru"
-  },
-  {
-    "value": "video-converter.com"
-  },
-  {
-    "value": "alvisa.ru"
-  },
-  {
-    "value": "aitkulovandpartners.com"
-  },
-  {
-    "value": "mingkh.ru"
-  },
-  {
-    "value": "lissi.ru"
-  },
-  {
-    "value": "less.works"
-  },
-  {
-    "value": "bssfera.ru"
-  },
-  {
-    "value": "ideputat.er.ru"
-  },
-  {
-    "value": "b2b-dsd.ru"
-  },
-  {
-    "value": "аварком.рф"
-  },
-  {
-    "value": "haval-aleksmotors.ru"
-  },
-  {
-    "value": "194.247.151.229"
-  },
-  {
-    "value": "194.247.144.227"
-  },
-  {
-    "value": "checkout.paymo.ru"
-  },
-  {
-    "value": "rosbanksqlcamp.ru"
-  },
-  {
-    "value": "otc-monitor.ru"
-  },
-  {
-    "value": "upper-store.ru"
-  },
-  {
-    "value": "daimler.com"
-  },
-  {
-    "value": "онлайн-регистрация.рф"
-  },
-  {
-    "value": "ucarecdn.com"
-  },
-  {
-    "value": "tekstilplasttorg.ru"
-  },
-  {
-    "value": "ra-forum.ru"
-  },
-  {
-    "value": "media-manager.ru"
-  },
-  {
-    "value": "loyalty-forum.ru"
-  },
-  {
-    "value": "aawards.ru"
-  },
-  {
-    "value": "urbanawards.ru"
-  },
-  {
-    "value": "pexels.com"
-  },
-  {
-    "value": "globus.ru"
-  },
-  {
-    "value": "yartpp.ru"
-  },
-  {
-    "value": "kosmos-rk.ru"
-  },
-  {
-    "value": "bruggekb.ru"
-  },
-  {
-    "value": "unionpayintl.com"
-  },
-  {
-    "value": "comstroygroup.ru"
-  },
-  {
-    "value": "strojpolimer.ru"
-  },
-  {
-    "value": "vueschool.io"
-  },
-  {
-    "value": "spbbank.ru"
-  },
-  {
-    "value": "bazisdevelopment.ru"
-  },
-  {
-    "value": "adresa-telefony.ru"
-  },
-  {
-    "value": "idealsvdr.com"
-  },
-  {
-    "value": "riviera-invest.ru"
-  },
-  {
-    "value": "app.torusadvisors.com"
-  },
-  {
-    "value": "etalongroup.com"
-  },
-  {
-    "value": "first-am.ru"
-  },
-  {
-    "value": "theiia.org"
-  },
-  {
-    "value": "gleim.com"
-  },
-  {
-    "value": "apexberg.ru"
-  },
-  {
-    "value": "geelyauto.com.hk"
-  },
-  {
-    "value": "jaccar.ru"
-  },
-  {
-    "value": "ufa.mbib.ru"
-  },
-  {
-    "value": "rudata.info"
-  },
-  {
-    "value": "uo-minusinsk.ru"
-  },
-  {
-    "value": "geely-motors.com"
-  },
-  {
-    "value": "platforma.id"
-  },
-  {
-    "value": "4brain.ru"
-  },
-  {
-    "value": "addons.opera.com"
-  },
-  {
-    "value": "ethz.ch"
-  },
-  {
-    "value": "actuaries.org.uk"
-  },
-  {
-    "value": "help.just-ai.com"
-  },
-  {
-    "value": "mercedes-benz.ru"
-  },
-  {
-    "value": "repo-zvirt.infoland.ru"
-  },
-  {
-    "value": "mcintermarkauto.com"
-  },
-  {
-    "value": "europlan.ru"
-  },
-  {
-    "value": "exeed.ru"
-  },
-  {
-    "value": "nes.ru"
-  },
-  {
-    "value": "solanteq.com"
-  },
-  {
-    "value": "globus-ltd.com"
-  },
-  {
-    "value": "63kolesa.ru"
-  },
-  {
-    "value": "b2bresearch.io"
-  },
-  {
-    "value": "budu.jobs"
-  },
-  {
-    "value": "wowhr.ru"
-  },
-  {
-    "value": "eventtoday.biz"
-  },
-  {
-    "value": "hrsummit.ru"
-  },
-  {
-    "value": "b2b4.ru"
-  },
-  {
-    "value": "sk.ru"
-  },
-  {
-    "value": "prof-itgroup.ru"
-  },
-  {
-    "value": "yesleader.ru"
-  },
-  {
-    "value": "hotellook.com"
-  },
-  {
-    "value": "2011.bolshoi.ru"
-  },
-  {
-    "value": "a101.ru"
-  },
-  {
-    "value": "svoedom.ru"
-  },
-  {
-    "value": "uxr.is"
-  },
-  {
-    "value": "intradesk.ru"
-  },
-  {
-    "value": "city-story.ru"
-  },
-  {
-    "value": "антикор-сервис.рф"
-  },
-  {
-    "value": "mango.rocks"
-  },
-  {
-    "value": "aeroflot.com"
-  },
-  {
-    "value": "gracenn.ru"
-  },
-  {
-    "value": "nissanpace.com"
-  },
-  {
-    "value": "nissan-cdn.net"
-  },
-  {
-    "value": "sky.pro"
-  },
-  {
-    "value": "193.42.145.43"
-  },
-  {
-    "value": "biletix.ru"
-  },
-  {
-    "value": "skyhigh.cloud"
-  },
-  {
-    "value": "renault.ru"
-  },
-  {
-    "value": "nissan.ru"
-  },
-  {
-    "value": "udemy.com"
-  },
-  {
-    "value": "haval.ru"
-  },
-  {
-    "value": "cena-auto.ru"
-  },
-  {
-    "value": "inosmi.ru"
-  },
-  {
-    "value": "rossaprimavera.ru"
-  },
-  {
-    "value": "vesti-k.ru"
-  },
-  {
-    "value": "life.ru"
-  },
-  {
-    "value": "kp.ru"
-  },
-  {
-    "value": "magonline.ru"
-  },
-  {
-    "value": "camunda.io"
-  },
-  {
-    "value": "roshat.ru"
-  },
-  {
-    "value": "kdvonline.ru"
-  },
-  {
-    "value": "prodo.ru"
-  },
-  {
-    "value": "mos-gorsud.ru"
-  },
-  {
-    "value": "cbonds.info"
-  },
-  {
-    "value": "skyeng.ru"
-  },
-  {
-    "value": "teremok.ru"
-  },
-  {
-    "value": "hyundai.ru"
-  },
-  {
-    "value": "r7-demo.ru"
-  },
-  {
-    "value": "timepad.ru"
-  },
-  {
-    "value": "mos-gorsud.ru"
-  },
-  {
-    "value": "cawemo.com"
-  },
-  {
-    "value": "weblegis.ru"
-  },
-  {
-    "value": "r7-office.ru"
-  },
-  {
-    "value": "itbroker.ru"
-  },
-  {
-    "value": "bss.e-in.info"
-  },
-  {
-    "value": "tpu.ru"
-  },
-  {
-    "value": "tusur.ru"
-  },
-  {
-    "value": "akwa-mir.ru"
-  },
-  {
-    "value": "kb-liga.phoenixit.ru"
-  },
-  {
-    "value": "ftp.moex.com"
-  },
-  {
-    "value": "rosseti-sib.ru"
-  },
-  {
-    "value": "resoleasing.com"
-  },
-  {
-    "value": "python.org/downloads/"
-  },
-  {
-    "value": "rfb.ippontech.ru"
-  },
-  {
-    "value": "gisprf.ru"
-  },
-  {
-    "value": "voda-sestrica.ru"
-  },
-  {
-    "value": "tvz1911.ru"
-  },
-  {
-    "value": "pernod-ricard.com"
-  },
-  {
-    "value": "partner-74.ru"
-  },
-  {
-    "value": "chipdip.ru"
-  },
-  {
-    "value": "maxidom.ru"
-  },
-  {
-    "value": "kiosks.ru"
-  },
-  {
-    "value": "talisman3s.ru"
-  },
-  {
-    "value": "gk-osnova.ru"
-  },
-  {
-    "value": "kvartalkotelniki.ru"
-  },
-  {
-    "value": "tradedealer.net"
-  },
-  {
-    "value": "kapremont23.ru"
-  },
-  {
-    "value": "m-logos.ru"
-  },
-  {
-    "value": "skolkovo.ru"
-  },
-  {
-    "value": "hoff.ru"
-  },
-  {
-    "value": "cloudfront.net"
-  },
-  {
-    "value": "ispringlearn.ru"
-  },
-  {
-    "value": "fund.mgimo.ru"
-  },
-  {
-    "value": "run.unl.pt"
-  },
-  {
-    "value": "researchgate.net"
-  },
-  {
-    "value": "arxiv.org"
-  },
-  {
-    "value": "sciencedirect.com"
-  },
-  {
-    "value": "strategy-hour.ru"
-  },
-  {
-    "value": "dreamjob.ru"
-  },
-  {
-    "value": "prodimex.ru"
-  },
-  {
-    "value": "shutterstock.com"
-  },
-  {
-    "value": "lk.hihiclub.ru"
-  },
-  {
-    "value": "roscongress.org"
-  },
-  {
-    "value": "getcourse.ru"
-  },
-  {
-    "value": "rbsmarti.ru"
-  },
-  {
-    "value": "kia.ru"
-  },
-  {
-    "value": "kanzlider.ru"
-  },
-  {
-    "value": "samsonopt.ru"
-  },
-  {
-    "value": "redstar-udm.ru"
-  },
-  {
-    "value": "meetings.bankro.tech"
-  },
-  {
-    "value": "aftru.ktalk.ru/9296944"
-  },
-  {
-    "value": "fsosro.ru"
-  },
-  {
-    "value": "russianhighways.ru"
-  },
-  {
-    "value": "scabrus.ru"
-  },
-  {
-    "value": "api.insapp.pro"
-  },
-  {
-    "value": "easynation.ru"
-  },
-  {
-    "value": "bumaga-s.ru"
-  },
-  {
-    "value": "renaultgroup.com"
-  },
-  {
-    "value": "живаякапля.рф"
-  },
-  {
-    "value": "arhivvladivostok.ru"
-  },
-  {
-    "value": "alteosoft.com"
-  },
-  {
-    "value": "bsmp-1.ru"
-  },
-  {
-    "value": "ucoach.ru"
-  },
-  {
-    "value": "divelang.ru"
-  },
-  {
-    "value": "nix.ru"
-  },
-  {
-    "value": "leadertelecom.ru"
-  },
-  {
-    "value": "ispring.ru"
-  },
-  {
-    "value": "insapp.ru"
-  },
-  {
-    "value": "tradedealer.ru"
-  },
-  {
-    "value": "ifrsp.com"
-  },
-  {
-    "value": "remezovhotel.ru"
-  },
-  {
-    "value": "yakutskcity.ru"
-  },
-  {
-    "value": "lvmh.ru"
-  },
-  {
-    "value": "learnis.ru"
-  },
-  {
-    "value": "wordwall.net"
-  },
-  {
-    "value": "undraw.co"
-  },
-  {
-    "value": "tiburon.datafile.ru"
-  },
-  {
-    "value": "gofluent.com"
-  },
-  {
-    "value": "transliteration-online.ru"
-  },
-  {
-    "value": "wildberries.ru"
-  },
-  {
-    "value": "ozon.ru"
-  },
-  {
-    "value": "aliexpress.ru"
-  },
-  {
-    "value": "sberuniversity.ru"
-  },
-  {
-    "value": "support.nspk.ru"
-  },
-  {
-    "value": "randomdatatools.ru"
-  },
-  {
-    "value": "cloud.tm-serv.ru"
-  },
-  {
-    "value": "web.adriver.ru"
-  },
-  {
-    "value": "adriver.ru"
-  },
-  {
-    "value": "naveoapps.ru"
-  },
-  {
-    "value": "tork"
-  },
-  {
-    "value": "asavtomotors.ru"
-  },
-  {
-    "value": "reverso.net"
-  },
-  {
-    "value": "oasiscatalog.com"
-  },
-  {
-    "value": "i-maika.ru"
-  },
-  {
-    "value": "ranzel.ru"
-  },
-  {
-    "value": "suveniroved.ru"
-  },
-  {
-    "value": "xindaorussia.ru"
-  },
-  {
-    "value": "hempforlife.ru"
-  },
-  {
-    "value": "happygifts.ru"
-  },
-  {
-    "value": "m11-neva.ru"
-  },
-  {
-    "value": "skills.loginom.ru"
-  },
-  {
-    "value": "maps.googleapis.com"
-  },
-  {
-    "value": "cloud.gardatech.ru"
-  },
-  {
-    "value": "occrp.org"
-  },
-  {
-    "value": "oica.net"
-  },
-  {
-    "value": "bacon.ru"
-  },
-  {
-    "value": "jusan.kz"
-  },
-  {
-    "value": "coursera.org"
-  },
-  {
-    "value": "datacamp.com"
-  },
-  {
-    "value": "bonnieandslide.com"
-  },
-  {
-    "value": "invoice.su"
-  },
-  {
-    "value": "retailcrm.ru"
-  },
-  {
-    "value": "pro-brunch.ru"
-  },
-  {
-    "value": "crmgu.ru"
-  },
-  {
-    "value": "sherparpa.ru"
-  },
-  {
-    "value": "cian.site"
-  },
-  {
-    "value": "autoexpert.ru"
-  },
-  {
-    "value": "private.15-58m11.ru"
-  },
-  {
-    "value": "esoo39.ru"
-  },
-  {
-    "value": "bonnieandslide.com"
-  },
-  {
-    "value": "en.caam.org.cn"
-  },
-  {
-    "value": "китайские-автомобили.рф"
-  },
-  {
-    "value": "eu.strategicdialogue2022.com"
-  },
-  {
-    "value": "datagovernanceassu.sogecap.fr"
-  },
-  {
-    "value": "english.crcc.cn"
-  },
-  {
-    "value": "brilliant.org"
-  },
-  {
-    "value": "datacamp.com"
-  },
-  {
-    "value": "365datascience.com"
-  },
-  {
-    "value": "mlcourse.ai"
-  },
-  {
-    "value": "kuhmaster.ru"
-  },
-  {
-    "value": "kuhmaster.com"
-  },
-  {
-    "value": "zemsky.ru"
-  },
-  {
-    "value": "kolbasoff.su"
-  },
-  {
-    "value": "vyborstroi.ru"
-  },
-  {
-    "value": "app.angry.space"
-  },
-  {
-    "value": "my.pntr.io"
-  },
-  {
-    "value": "huayangfood.com"
-  },
-  {
-    "value": "direct.yandex.ru"
-  },
-  {
-    "value": "context.reverso.net"
-  },
-  {
-    "value": "cdn.cian.site"
+    "value": "wx.amt.ru"
   },
   {
     "value": "omilia.com"
   },
   {
-    "value": "moqups.com"
+    "value": "cti.ru"
   },
   {
-    "value": "cdt.iglobe.ru"
+    "value": "scoring.ru"
   },
   {
-    "value": "finex.plus"
+    "value": "rosbank-smart.ru"
   },
   {
-    "value": "mgc-loyalty.ru"
+    "value": "interfax.ru"
   },
   {
-    "value": "designmodo.com"
+    "value": "46.28.21.180"
   },
   {
-    "value": "quizizz.com"
+    "value": "46.28.21.177"
   },
   {
-    "value": "talent-q.ru"
+    "value": "equifax.ru"
   },
   {
-    "value": "multitran.com"
+    "value": "www.banki.ru"
   },
   {
-    "value": "soautpprf.ru"
+    "value": "eu.safenetid.com"
   },
   {
-    "value": "mjt.lu"
+    "value": "skbkontur.ru"
   },
   {
-    "value": "nabiraem.ru"
+    "value": "apps.qualys.eu"
   },
   {
-    "value": "specialist.ru"
+    "value": "whitelist.alteryx.com"
   },
   {
-    "value": "scikit-learn.github.io"
+    "value": "go"
   },
   {
-    "value": "service-law.ru"
+    "value": "194.8.224.46"
   },
   {
-    "value": "informat.ru"
+    "value": "fss.ru"
   },
   {
-    "value": "omarket.ru"
+    "value": "fedresurs.ru"
   },
   {
-    "value": "sross.ru"
+    "value": "tex.360t.com"
   },
   {
-    "value": "workspad.com"
+    "value": "qs.cryptopro.ru"
   },
   {
-    "value": "dvgk.ru"
+    "value": "sirota.ru"
   },
   {
-    "value": "vashifinancy.ru"
+    "value": "snl.com"
   },
   {
-    "value": "labma.ru"
+    "value": "services.technokad.ru"
   },
   {
-    "value": "technoavia.ru"
+    "value": "portal.rosreestr.ru"
   },
   {
-    "value": "balans2.ru"
+    "value": "register.technokad.ru"
   },
   {
-    "value": "dell.com"
+    "value": "technokad.ru"
   },
   {
-    "value": "isbd.ru"
+    "value": "rosreestr.ru"
   },
   {
-    "value": "fssprus77.ru"
+    "value": "dashboard.finex.plus"
   },
   {
-    "value": "horizons22.mindfulmanager.me.uk"
+    "value": "agent.sbp-prod4.cbrpay.ru"
   },
   {
-    "value": "skillbox.ru"
+    "value": "agent.sbp-prod3.cbrpay.ru"
   },
   {
-    "value": "87.245.214.250"
+    "value": "agent.sbp-prod2.cbrpay.ru"
   },
   {
-    "value": "sberuniversity.online"
+    "value": "agent.sbp-prod1.cbrpay.ru"
   },
   {
-    "value": "facultetus.ru"
+    "value": "report.sbp-prod4.cbrpay.ru"
   },
   {
-    "value": "vseinstrumenti.ru"
+    "value": "report.sbp-prod3.cbrpay.ru"
   },
   {
-    "value": "openbusiness73.ru"
+    "value": "report.sbp-prod2.cbrpay.ru"
   },
   {
-    "value": "gandiva.ru"
+    "value": "report.sbp-prod1.cbrpay.ru"
   },
   {
-    "value": "smoladmin.ru"
+    "value": "dict.sbp-prod4.cbrpay.ru"
   },
   {
-    "value": "murinoclub.ru"
+    "value": "dict.sbp-prod3.cbrpay.ru"
   },
   {
-    "value": "pgk.ru"
+    "value": "dict.sbp-prod2.cbrpay.ru"
   },
   {
-    "value": "dme.ru"
+    "value": "dict.sbp-prod1.cbrpay.ru"
   },
   {
-    "value": "predictor.yandex.net"
+    "value": "agent.sbp-cert4.cbrpay.ru"
   },
   {
-    "value": "speller.yandex.net"
+    "value": "agent.sbp-cert3.cbrpay.ru"
   },
   {
-    "value": "translate.yandex.net"
+    "value": "agent.sbp-cert2.cbrpay.ru"
   },
   {
-    "value": "strategy-hour.rubroadcast"
+    "value": "agent.sbp-cert1.cbrpay.ru"
   },
   {
-    "value": "lk.nbki.ru"
+    "value": "sbp-cert4.cbrpay.ru"
   },
   {
-    "value": "rise.articulate.com"
+    "value": "sbp-cert3.cbrpay.ru"
   },
   {
-    "value": "www.istockphoto.com"
+    "value": "sbp-cert2.cbrpay.ru"
   },
   {
-    "value": "docs.ozon.ru"
+    "value": "sbp-cert1.cbrpay.ru"
   },
   {
-    "value": "www.iglobe.ru"
+    "value": "sbp-prod4.cbrpay.ru"
   },
   {
-    "value": "ostrovok.ru"
+    "value": "sbp-prod3.cbrpay.ru"
   },
   {
-    "value": "www.s7.ru"
+    "value": "sbp-prod2.cbrpay.ru"
   },
   {
-    "value": "www.aeroflot.ru"
+    "value": "sbp-prod1.cbrpay.ru"
   },
   {
-    "value": "www.aviasales.ru"
+    "value": "cbrpay.ru"
   },
   {
-    "value": "ticket.rzd.ru"
+    "value": "mironline.ru"
   },
   {
-    "value": "travel-click.ru"
+    "value": "sbp-gate4.nspk.ru"
   },
   {
-    "value": "tportal.vaz.ru"
+    "value": "sbp-gate3.nspk.ru"
   },
   {
-    "value": "avtoproverka.com"
+    "value": "sbp-gate2.nspk.ru"
   },
   {
-    "value": "core.telegram.org"
+    "value": "sbp-gate1.nspk.ru"
   },
   {
-    "value": "sql-ex.ru"
+    "value": "support.nspk.ru"
   },
   {
-    "value": "dme.aero"
+    "value": "nspk.ru"
   },
   {
-    "value": "towardsdatascience.com"
+    "value": "access.clic.autodesk.com"
   },
   {
-    "value": "i.gmoji.world"
+    "value": "cdn.accounts.autodesk.com"
   },
   {
-    "value": "mazda-ru.apak.com"
+    "value": "cur.autodesk.com"
   },
   {
-    "value": "chery.ru"
+    "value": "bc.gazprombank.ru"
   },
   {
-    "value": "asroad.org"
+    "value": "gazprombank.ru"
   },
   {
-    "value": "agat-group.com"
+    "value": "join.socgen.com"
   },
   {
-    "value": "se.sberbank-school.ru"
+    "value": "join.meeting-connect.com"
   },
   {
-    "value": "s3.amazonaws.com/articulate-us"
+    "value": "reg.kontur-ca.ru"
   },
   {
-    "value": "articulate-us.s3-external-1.amazonaws.com"
+    "value": "i.kontur-ca.ru"
   },
   {
-    "value": "articulate-us.s3.us-east-1.amazonaws.com"
+    "value": "diadoc.kontur.ru"
   },
   {
-    "value": "articulate-us.s3.amazonaws.com"
+    "value": "kontur.ru"
   },
   {
-    "value": "riseusercontent.com"
-  },
-  {
-    "value": "ariculateusercontent.com"
-  },
-  {
-    "value": "eventrocks.app"
-  },
-  {
-    "value": "sintegs.ru"
-  },
-  {
-    "value": "soa.org"
-  },
-  {
-    "value": "strategy-hour.ru"
-  },
-  {
-    "value": "workspad.ru"
-  },
-  {
-    "value": "onetwotrip.com"
-  },
-  {
-    "value": "hyundai-tskmotor.ru"
-  },
-  {
-    "value": "www.multitran.ru"
-  },
-  {
-    "value": "mentimeter.com"
-  },
-  {
-    "value": "iitp.ru"
-  },
-  {
-    "value": "luxoft-training.ru"
-  },
-  {
-    "value": "fondpotanin.ru"
-  },
-  {
-    "value": "mafin.ru"
-  },
-  {
-    "value": "mvideo.ru"
-  },
-  {
-    "value": "eldorado.ru"
-  },
-  {
-    "value": "citilink.ru"
-  },
-  {
-    "value": "motor92.ru"
-  },
-  {
-    "value": "admhmao.ru"
-  },
-  {
-    "value": "realty.rbc.ru"
-  },
-  {
-    "value": "3259404.ru"
-  },
-  {
-    "value": "grantspb.ru"
-  },
-  {
-    "value": "belugagroup.ru"
-  },
-  {
-    "value": "solocorporate.com"
-  },
-  {
-    "value": "pn.ru"
-  },
-  {
-    "value": "sinara-development.ru"
-  },
-  {
-    "value": "intuit.ru"
-  },
-  {
-    "value": "егрн-документ.рф"
-  },
-  {
-    "value": "eurosib-ab.ru"
-  },
-  {
-    "value": "vis.iitp.ru/artifactory/list/smartengines/CustomBuilds/rosbank"
-  },
-  {
-    "value": "volkswagen.de"
-  },
-  {
-    "value": "gettyimages.com"
-  },
-  {
-    "value": "postgresqltutorial.com"
-  },
-  {
-    "value": "vwgroupsupply.com"
-  },
-  {
-    "value": "monodom-lake.ru"
-  },
-  {
-    "value": "premium-estate.store"
-  },
-  {
-    "value": "www.novostroy-m.ru"
-  },
-  {
-    "value": "youla.ru"
-  },
-  {
-    "value": "ihg.com"
-  },
-  {
-    "value": "лигасро.рф"
-  },
-  {
-    "value": "pioneer.ru"
-  },
-  {
-    "value": "volkswagenag.com"
-  },
-  {
-    "value": "akfa.ru"
-  },
-  {
-    "value": "core.telegram.org/bots/webhooks"
-  },
-  {
-    "value": "atomstroy.net"
-  },
-  {
-    "value": "lornii.ru"
-  },
-  {
-    "value": "mazdaspb.ru"
-  },
-  {
-    "value": "fa.ru"
-  },
-  {
-    "value": "www.google.com/search"
-  },
-  {
-    "value": "www.google.ru/imghp"
-  },
-  {
-    "value": "yandex.ru/images"
-  },
-  {
-    "value": "b2b.wheely.com"
-  },
-  {
-    "value": "cdn.gett.com"
-  },
-  {
-    "value": "ibf-motors.ru"
-  },
-  {
-    "value": "taxielitavto.ru"
-  },
-  {
-    "value": "docs.ozon.ru"
-  },
-  {
-    "value": "lk.nbki.ru"
-  },
-  {
-    "value": "pandas.pydata.org"
-  },
-  {
-    "value": "articulate.com"
-  },
-  {
-    "value": "avtoproverka.com"
-  },
-  {
-    "value": "uslugi.yandex.ru"
-  },
-  {
-    "value": "spb.cian.ru"
-  },
-  {
-    "value": "sevensuns.ru"
-  },
-  {
-    "value": "samolet.ru"
-  },
-  {
-    "value": "otdelstroy.spb.ru"
-  },
-  {
-    "value": "mavis.ru"
-  },
-  {
-    "value": "landrin-dom.ru"
-  },
-  {
-    "value": "l1-stroy.ru"
-  },
-  {
-    "value": "etalongroup.ru"
-  },
-  {
-    "value": "emls.ru"
-  },
-  {
-    "value": "dockhlands.ru"
-  },
-  {
-    "value": "bn.ru"
-  },
-  {
-    "value": "teorema.info"
-  },
-  {
-    "value": "prokinvest.ru"
-  },
-  {
-    "value": "megalit.ru"
-  },
-  {
-    "value": "bonava.ru"
-  },
-  {
-    "value": "setlgroup.ru"
-  },
-  {
-    "value": "rgr.ru"
-  },
-  {
-    "value": "polis-group.ru"
-  },
-  {
-    "value": "plg.group"
-  },
-  {
-    "value": "ord44.ru"
-  },
-  {
-    "value": "kvsspb.ru"
-  },
-  {
-    "value": "investtorg.ru"
-  },
-  {
-    "value": "b-city.ru"
-  },
-  {
-    "value": "baltcom.spb.ru"
-  },
-  {
-    "value": "advecs.com"
-  },
-  {
-    "value": "compassluxe.com"
-  },
-  {
-    "value": "iglobe.ru"
-  },
-  {
-    "value": "market.yandex.ru"
-  },
-  {
-    "value": "ins-union.ru"
-  },
-  {
-    "value": "rfb.ruippon.tech"
-  },
-  {
-    "value": "avtoteka.ru"
-  },
-  {
-    "value": "suzuki-motor.ru"
-  },
-  {
-    "value": "bilyar-hotel.ru"
-  },
-  {
-    "value": "istockphoto.com"
-  },
-  {
-    "value": "royalmotors.ru"
-  },
-  {
-    "value": "rasp.yandex.ru"
-  },
-  {
-    "value": "escom.ru"
-  },
-  {
-    "value": "ulyanovsk.parket73.ru"
-  },
-  {
-    "value": "lada.ru"
-  },
-  {
-    "value": "tportal.vaz.ru"
-  },
-  {
-    "value": "socgen.translation.ent.reverso.net"
-  },
-  {
-    "value": "uralst.ru"
-  },
-  {
-    "value": "roszem.ru"
-  },
-  {
-    "value": "bo-nn.ru"
-  },
-  {
-    "value": "areall.ru"
-  },
-  {
-    "value": "appraiser.ru"
-  },
-  {
-    "value": "snimisklad.ru"
-  },
-  {
-    "value": "sdmkarat.ru"
-  },
-  {
-    "value": "detmir.st"
-  },
-  {
-    "value": "detmir.ru"
-  },
-  {
-    "value": "x-keeper.net"
-  },
-  {
-    "value": "ostrovok.ru"
-  },
-  {
-    "value": "booking.com"
-  },
-  {
-    "value": "uralairlines.ru"
-  },
-  {
-    "value": "tutu.ru"
-  },
-  {
-    "value": "skyscanner.ru"
-  },
-  {
-    "value": "pobeda.aero"
-  },
-  {
-    "value": "azimuth.aero/ru"
-  },
-  {
-    "value": "utair.ru"
-  },
-  {
-    "value": "pobeda.aero"
-  },
-  {
-    "value": "portal.spellabs.com"
-  },
-  {
-    "value": "tfs.spellabs.com"
-  },
-  {
-    "value": "app.b2bdom.ru"
-  },
-  {
-    "value": "i.moscow"
-  },
-  {
-    "value": "portal.globus.ru"
-  },
-  {
-    "value": "dns-shop.ru"
-  },
-  {
-    "value": "гибдд.рф"
-  },
-  {
-    "value": "group.accor.com"
-  },
-  {
-    "value": "zdanie.info"
-  },
-  {
-    "value": "zemer.ru"
-  },
-  {
-    "value": "svoya-zemlya.ru"
-  },
-  {
-    "value": "realtymag.ru"
-  },
-  {
-    "value": "novosel.ru"
-  },
-  {
-    "value": "n1.ru"
-  },
-  {
-    "value": "mirkvartir.ru"
-  },
-  {
-    "value": "mascus.ru"
-  },
-  {
-    "value": "invst.ru"
-  },
-  {
-    "value": "cre.ru"
-  },
-  {
-    "value": "colliers.com"
-  },
-  {
-    "value": "cbre.ru"
-  },
-  {
-    "value": "apex-realty.ru"
-  },
-  {
-    "value": "akrus.ru"
-  },
-  {
-    "value": "agriaffaires.ru"
-  },
-  {
-    "value": "vin01.ru"
-  },
-  {
-    "value": "unibo.ru"
-  },
-  {
-    "value": "tvoyadres.ru"
-  },
-  {
-    "value": "statrielt.ru"
-  },
-  {
-    "value": "spec.drom.ru"
-  },
-  {
-    "value": "sob.ru"
-  },
-  {
-    "value": "skladium.ru"
-  },
-  {
-    "value": "restate.ru"
-  },
-  {
-    "value": "realty.yandex.ru"
-  },
-  {
-    "value": "onrealt.ru"
-  },
-  {
-    "value": "naydidom.com"
-  },
-  {
-    "value": "move.ru"
-  },
-  {
-    "value": "kvadroom.ru"
-  },
-  {
-    "value": "kupizemli.ru"
-  },
-  {
-    "value": "kf.expert"
-  },
-  {
-    "value": "irr.ru"
-  },
-  {
-    "value": "ilm.ru"
-  },
-  {
-    "value": "gruzovik.ru"
-  },
-  {
-    "value": "gdeetotdom.ru"
-  },
-  {
-    "value": "gde.ru"
-  },
-  {
-    "value": "flatinfo.ru"
-  },
-  {
-    "value": "exkavator.ru"
-  },
-  {
-    "value": "ehkskavator.ru"
-  },
-  {
-    "value": "domofond.ru"
-  },
-  {
-    "value": "domclick.ru"
-  },
-  {
-    "value": "barahla.net"
-  },
-  {
-    "value": "avtocod.ru"
-  },
-  {
-    "value": "avaho.ru"
-  },
-  {
-    "value": "autoline24.ru"
-  },
-  {
-    "value": "afy.ru"
-  },
-  {
-    "value": "abn-consult.ru"
-  },
-  {
-    "value": "33land.ru"
-  },
-  {
-    "value": "100realt.ru"
-  },
-  {
-    "value": "app.mocklab.io"
-  },
-  {
-    "value": "aeroflot.ru"
-  },
-  {
-    "value": "avtovokzal27.ru"
-  },
-  {
-    "value": "autostat.ru"
-  },
-  {
-    "value": "eurochemgroup.com"
-  },
-  {
-    "value": "partners.insapp.ru"
-  },
-  {
-    "value": "spbrealty.ru"
-  },
-  {
-    "value": "autoteka.ru"
-  },
-  {
-    "value": "pro.autoteka.ru"
-  },
-  {
-    "value": "vin01.ru"
-  },
-  {
-    "value": "stepik.org"
-  },
-  {
-    "value": "business.taxi.yandex.ru"
-  },
-  {
-    "value": "business-ru.gett.com"
-  },
-  {
-    "value": "prioritypass.com"
-  },
-  {
-    "value": "rzd.ru"
-  },
-  {
-    "value": "stroimaterial-moskva.ru"
-  },
-  {
-    "value": "domofond.ru"
-  },
-  {
-    "value": "uralairlines.ru"
-  },
-  {
-    "value": "ostrovok.ru"
-  },
-  {
-    "value": "s7.ru"
-  },
-  {
-    "value": "aeroflot.ru"
-  },
-  {
-    "value": "aviasales.ru"
-  },
-  {
-    "value": "ticket.rzd.ru"
-  },
-  {
-    "value": "travel-click.ru"
-  },
-  {
-    "value": "ets24.ru"
-  },
-  {
-    "value": "www.translate.ru"
-  },
-  {
-    "value": "deepl.com"
-  },
-  {
-    "value": "autonews.ru"
-  },
-  {
-    "value": "autostat.ru"
-  },
-  {
-    "value": "avtonovostidnya.ru"
-  },
-  {
-    "value": "automarketolog.ru"
-  },
-  {
-    "value": "napinfo.ru"
-  },
-  {
-    "value": "w3schools.com"
-  },
-  {
-    "value": "chel.ranepa.ru"
-  },
-  {
-    "value": "banki.ru"
-  },
-  {
-    "value": "app.mocklab.io"
-  },
-  {
-    "value": "scikit-learn.org"
-  },
-  {
-    "value": "autonews.ru"
-  },
-  {
-    "value": "autostat.ru"
-  },
-  {
-    "value": "avtonovostidnya.ru"
-  },
-  {
-    "value": "automarketolog.ru"
-  },
-  {
-    "value": "napinfo.ru"
-  },
-  {
-    "value": "taxi-elitavto.ru"
-  },
-  {
-    "value": "gett.com"
-  },
-  {
-    "value": "ets24.ru"
-  },
-  {
-    "value": "b2bdom.ru"
-  },
-  {
-    "value": "chel.ranepa.ru"
-  },
-  {
-    "value": "partners.insapp.ru"
-  },
-  {
-    "value": "stroimaterial-moskva.ru"
-  },
-  {
-    "value": "domofond.ru"
-  },
-  {
-    "value": "translate.ru"
-  },
-  {
-    "value": "www.deepl.com/ru/translator"
-  },
-  {
-    "value": "taxi.yandex.ru"
-  },
-  {
-    "value": "dominodv.ru"
-  },
-  {
-    "value": "cian.ru"
-  },
-  {
-    "value": "avito.st"
-  },
-  {
-    "value": "avito.ru"
-  },
-  {
-    "value": "drom.ru"
-  },
-  {
-    "value": "auto.ru"
-  },
-  {
-    "value": "komus.ru"
-  },
-  {
-    "value": "confindustriarussia.it"
-  },
-  {
-    "value": "sibstek.ru"
-  },
-  {
-    "value": "edventure.pro"
-  },
-  {
-    "value": "1akp.com"
-  },
-  {
-    "value": "alpina-digital.app.link"
-  },
-  {
-    "value": "qacademy.ru"
-  },
-  {
-    "value": "2amontek.com"
-  },
-  {
-    "value": "mindmeister.com"
-  },
-  {
-    "value": "mm.tt"
-  },
-  {
-    "value": "events.mafdrive.ru"
-  },
-  {
-    "value": "pixrpa.ru"
-  },
-  {
-    "value": "mailchi.mp"
-  },
-  {
-    "value": "nfp2b.ru"
-  },
-  {
-    "value": "kas.pr"
-  },
-  {
-    "value": "rosbank-ecogift.tilda.ws"
-  },
-  {
-    "value": "213.221.31.150"
-  },
-  {
-    "value": "lk.710.su"
-  },
-  {
-    "value": "portal.pex.me"
-  },
-  {
-    "value": "cian.tech"
-  },
-  {
-    "value": "nsd.us17.list-manage.com"
-  },
-  {
-    "value": "retail-risk-day.ru"
-  },
-  {
-    "value": "target.my.com"
-  },
-  {
-    "value": "zpl.io"
-  },
-  {
-    "value": "app.sa.voxys.digital"
-  },
-  {
-    "value": "elama.ru"
-  },
-  {
-    "value": "gmoji.business"
-  },
-  {
-    "value": "sd.office-dk.ru"
-  },
-  {
-    "value": "rb-cod-netbox.dev.btn.bz"
-  },
-  {
-    "value": "rb-cod-api.dev.btn.bz"
-  },
-  {
-    "value": "rb-cod-front.dev.btn.bz"
-  },
-  {
-    "value": "faw-motors.ru"
-  },
-  {
-    "value": "luckymotors.ru"
-  },
-  {
-    "value": "documentcloud.adobe.com"
-  },
-  {
-    "value": "lk.cm.expert"
-  },
-  {
-    "value": "rosbank.case.pro"
-  },
-  {
-    "value": "rosbank-bonus.ru"
-  },
-  {
-    "value": "webappraiser.ru"
+    "value": "aw.atos.net"
   },
   {
     "value": "liv-sg-corp-fo-mob-sea.aw.atos.net"
@@ -2454,643 +252,43 @@
     "value": "sea-societegenerale-corp.aw.atos.net"
   },
   {
-    "value": "update.sin-project.ru"
+    "value": "fsbk.sberbank.ru"
   },
   {
-    "value": "file.sogcen.net"
+    "value": "world-socgen.com"
   },
   {
-    "value": "e-credit.one"
+    "value": "files.tcgnws.com"
   },
   {
-    "value": "freepik.com"
+    "value": "87.98.156.41"
   },
   {
-    "value": "bilkon.ru"
+    "value": "rusfinance.workandplay.ru"
   },
   {
-    "value": "rosbank.mgc-loyalty.ru"
+    "value": "ra2.deltacredit.ru"
   },
   {
-    "value": "rosbank-auto.ma.ru"
+    "value": "195.151.185.237"
   },
   {
-    "value": "auth.cm.expert"
+    "value": "62.105.156.202"
   },
   {
-    "value": "doveriekonkurs.ru"
+    "value": "zoe-api.fincert.cbr.ru"
   },
   {
-    "value": "e.mindbox.ru"
+    "value": "api.fincert.cbr.ru"
   },
   {
-    "value": "codeigniter4.github.io"
+    "value": "zoe-lk.fincert.cbr.ru"
   },
   {
-    "value": "tk-ra.ru"
+    "value": "lk.fincert.cbr.ru"
   },
   {
-    "value": "rosbank2021.tilda.ws"
-  },
-  {
-    "value": "spbcongress.ru"
-  },
-  {
-    "value": "my.growthacademy.ru"
-  },
-  {
-    "value": "covid.novreg.ru"
-  },
-  {
-    "value": "check-up-online.ru"
-  },
-  {
-    "value": "fond17msx.ru"
-  },
-  {
-    "value": "minprom19.ru"
-  },
-  {
-    "value": "300-rosbank-dom-dev.bf360.ru"
-  },
-  {
-    "value": "carcraft.pro"
-  },
-  {
-    "value": "rosbank.futurecities.art"
-  },
-  {
-    "value": "тк-скорость.рф"
-  },
-  {
-    "value": "rb-osmotr.check-up-online.ru"
-  },
-  {
-    "value": "fs.atol.ru"
-  },
-  {
-    "value": "rosbank-event.ru"
-  },
-  {
-    "value": "kubzsk.ru"
-  },
-  {
-    "value": "duma-vologda.ru"
-  },
-  {
-    "value": "marksadm.ru"
-  },
-  {
-    "value": "mine.nabix.ru"
-  },
-  {
-    "value": "46.245.226.132"
-  },
-  {
-    "value": "гибдд.рф"
-  },
-  {
-    "value": "www.reutov.net"
-  },
-  {
-    "value": "psygame.online"
-  },
-  {
-    "value": "veresk33.ru"
-  },
-  {
-    "value": "radar-holding.ru"
-  },
-  {
-    "value": "radar-groupe.ru"
-  },
-  {
-    "value": "217.77.59.231"
-  },
-  {
-    "value": "trasko.ru"
-  },
-  {
-    "value": "coreapp.ai"
-  },
-  {
-    "value": "b2b.reg.ru"
-  },
-  {
-    "value": "bjr-bank.ru"
-  },
-  {
-    "value": "oshogbo.vexillium.org"
-  },
-  {
-    "value": "tkvls.ru"
-  },
-  {
-    "value": "lanta.intraservice.ru"
-  },
-  {
-    "value": "фин-73.рф"
-  },
-  {
-    "value": "niagara74.ru"
-  },
-  {
-    "value": "benferam.ru"
-  },
-  {
-    "value": "isk-vita.ru"
-  },
-  {
-    "value": "mfc71.ru"
-  },
-  {
-    "value": "atlant-pravo.ru"
-  },
-  {
-    "value": "group-akvilon.ru"
-  },
-  {
-    "value": "inttrust.ru"
-  },
-  {
-    "value": "parnas-official.ru"
-  },
-  {
-    "value": "group-ib.tech"
-  },
-  {
-    "value": "beta.webappraiser.ru"
-  },
-  {
-    "value": "distr.staffcop.su"
-  },
-  {
-    "value": "passport.yandex.com"
-  },
-  {
-    "value": "ipoteka.center"
-  },
-  {
-    "value": "events.bizzabo.com"
-  },
-  {
-    "value": "xormon.com"
-  },
-  {
-    "value": "yougile.com"
-  },
-  {
-    "value": "91.107.64.197"
-  },
-  {
-    "value": "developmentweek.ru"
-  },
-  {
-    "value": "879cc944-9728-4a06-bfda-7c994def47ea.selcdn.net"
-  },
-  {
-    "value": "partner.ipoteka.center"
-  },
-  {
-    "value": "angular.stackblitz.io"
-  },
-  {
-    "value": "yugns.ru"
-  },
-  {
-    "value": "urldefense.com"
-  },
-  {
-    "value": "wcloud.5-55.ru"
-  },
-  {
-    "value": "knopka.org"
-  },
-  {
-    "value": "eftr.ru"
-  },
-  {
-    "value": "193.9.245.214"
-  },
-  {
-    "value": "sravni-team.ru"
-  },
-  {
-    "value": "intratool.com"
-  },
-  {
-    "value": "www.2880055.ru"
-  },
-  {
-    "value": "2880055.ru"
-  },
-  {
-    "value": "srg-test.ru"
-  },
-  {
-    "value": "logrocket.io"
-  },
-  {
-    "value": "cloud.smartdeal.pro"
-  },
-  {
-    "value": "journal.dex.ru"
-  },
-  {
-    "value": "ixbt.online"
-  },
-  {
-    "value": "mc.yandex.ru"
-  },
-  {
-    "value": "krd.ru"
-  },
-  {
-    "value": "confluence.draw.io"
-  },
-  {
-    "value": "nn-card.ru"
-  },
-  {
-    "value": "gorod37.ru"
-  },
-  {
-    "value": "digicert.simplybook.me"
-  },
-  {
-    "value": "apps.apple.com"
-  },
-  {
-    "value": "global.itsph.ru"
-  },
-  {
-    "value": "ansible.express42.io"
-  },
-  {
-    "value": "agrs.ru"
-  },
-  {
-    "value": "pik-broker.ru"
-  },
-  {
-    "value": "zrm16rus.ru"
-  },
-  {
-    "value": "gamma-center.com"
-  },
-  {
-    "value": "mikhaylovsky.ru"
-  },
-  {
-    "value": "crx-checker.appspot.com"
-  },
-  {
-    "value": "voltage.com"
-  },
-  {
-    "value": "центральный-вп.рф"
-  },
-  {
-    "value": "figma.com"
-  },
-  {
-    "value": "clients2.google.com/service/update2/crx"
-  },
-  {
-    "value": "intechcom.ru"
-  },
-  {
-    "value": "app.asana.com"
-  },
-  {
-    "value": "quay.io"
-  },
-  {
-    "value": "213.221.7.198"
-  },
-  {
-    "value": "cyprolics.co.uk"
-  },
-  {
-    "value": "crm.dynamics.com"
-  },
-  {
-    "value": "ny2020-rosbank.ru"
-  },
-  {
-    "value": "nssm.cc"
-  },
-  {
-    "value": "ipsolution.ru"
-  },
-  {
-    "value": "crm.demo.ipotech.su"
-  },
-  {
-    "value": "ci6.googleusercontent.com"
-  },
-  {
-    "value": "ci5.googleusercontent.com"
-  },
-  {
-    "value": "ci4.googleusercontent.com"
-  },
-  {
-    "value": "icdc.cloud"
-  },
-  {
-    "value": "sumotori.ru"
-  },
-  {
-    "value": "echoworx.net"
-  },
-  {
-    "value": "depositphotos.com"
-  },
-  {
-    "value": "freepng.ru"
-  },
-  {
-    "value": "iconarchive.com"
-  },
-  {
-    "value": "unistaff.com"
-  },
-  {
-    "value": "tehstroy-group.ru"
-  },
-  {
-    "value": "pushapp.ru"
-  },
-  {
-    "value": "35.228.117.150"
-  },
-  {
-    "value": "cloud.digital-spirit.ru"
-  },
-  {
-    "value": "sgi.giftery.ru"
-  },
-  {
-    "value": "37.230.155.7"
-  },
-  {
-    "value": "static-hhru.webim.ru"
-  },
-  {
-    "value": "hhru.webim.ru"
-  },
-  {
-    "value": "sirota.ru"
-  },
-  {
-    "value": "nbki.ktr992hc.beget.tech"
-  },
-  {
-    "value": "translatoruser-int.com"
-  },
-  {
-    "value": "translatetheweb.com"
-  },
-  {
-    "value": "microsofttranslator.com"
-  },
-  {
-    "value": "portal.office.com"
-  },
-  {
-    "value": "atom-installer.github.com"
-  },
-  {
-    "value": "k-kps42.ru"
-  },
-  {
-    "value": "visualstudio.com"
-  },
-  {
-    "value": "rosbank.bankro.tech"
-  },
-  {
-    "value": "anaconda.org"
-  },
-  {
-    "value": "lucidchart.com"
-  },
-  {
-    "value": "voltage-pp-0000.wellsfargo.com"
-  },
-  {
-    "value": "evabeta.com"
-  },
-  {
-    "value": "2gis.com"
-  },
-  {
-    "value": "download.intralinkscontent.com"
-  },
-  {
-    "value": "мпаэс.рф"
-  },
-  {
-    "value": "media.cubicservice.ru"
-  },
-  {
-    "value": "api.cubicservice.ru"
-  },
-  {
-    "value": "cubicservice.ru"
-  },
-  {
-    "value": "klaxoon.com"
-  },
-  {
-    "value": "amplitude.com"
-  },
-  {
-    "value": "app.powerbi.com"
-  },
-  {
-    "value": "nutanix.net"
-  },
-  {
-    "value": "nutanix.com"
-  },
-  {
-    "value": "ntcnt.ru"
-  },
-  {
-    "value": "events-emea1.adobeconnect.com"
-  },
-  {
-    "value": "mastercardeacademy.adobeconnect.com"
-  },
-  {
-    "value": "canva.com"
-  },
-  {
-    "value": "tempus-resource.com"
-  },
-  {
-    "value": "res.office365.com"
-  },
-  {
-    "value": "rosbankru-my.sharepoint.com"
-  },
-  {
-    "value": "rosbankru.sharepoint.com"
-  },
-  {
-    "value": "smbfin.ru"
-  },
-  {
-    "value": "securemail.jpmchase.com"
-  },
-  {
-    "value": "aismmo.econ-krsk.ru"
-  },
-  {
-    "value": "pyatilistnik.org"
-  },
-  {
-    "value": "astrgorod.ru"
-  },
-  {
-    "value": "duma-astrakhan.ru"
-  },
-  {
-    "value": "telmed24.ru"
-  },
-  {
-    "value": "ugfond.mcdir.ru"
-  },
-  {
-    "value": "join.slack.com"
-  },
-  {
-    "value": "files.slack.com"
-  },
-  {
-    "value": "ibfs-modelling.slack.com"
-  },
-  {
-    "value": "syktyvkar-sovet.ru"
-  },
-  {
-    "value": "24mfc.ru"
-  },
-  {
-    "value": "kbkperm.ru"
-  },
-  {
-    "value": "clicktools.com"
-  },
-  {
-    "value": "eora.ru"
-  },
-  {
-    "value": "dveriregionov.ru"
-  },
-  {
-    "value": "gurievsk.gov39.ru"
-  },
-  {
-    "value": "it-summit.ru"
-  },
-  {
-    "value": "149.14.197.186"
-  },
-  {
-    "value": "195.146.82.186"
-  },
-  {
-    "value": "chrome.google.com/webstore/detail"
-  },
-  {
-    "value": "chrome.google.com/webstore/ajax"
-  },
-  {
-    "value": "saleschain.ru"
-  },
-  {
-    "value": "molochnaya-ferma.ru"
-  },
-  {
-    "value": "80.78.249.27"
-  },
-  {
-    "value": "fciit.ru"
-  },
-  {
-    "value": "sprut.su"
-  },
-  {
-    "value": "codepen.io"
-  },
-  {
-    "value": "it-sysoft.com"
-  },
-  {
-    "value": "aston.cristal.su"
-  },
-  {
-    "value": "3z.ru"
-  },
-  {
-    "value": "ftp.rbpart.ru"
-  },
-  {
-    "value": "app.sherlockcrm.ru"
-  },
-  {
-    "value": "rosbank.fintech.msk.ru"
-  },
-  {
-    "value": "net.geo.opera.com"
-  },
-  {
-    "value": "npf-atom.ru"
-  },
-  {
-    "value": "verter.online"
-  },
-  {
-    "value": "rosbank-demo.simbirsoft1.com"
-  },
-  {
-    "value": "mkyzyl.ru"
-  },
-  {
-    "value": "unistream.ru"
-  },
-  {
-    "value": "azs-sintez.ru"
-  },
-  {
-    "value": "rosbanksurvey.ru"
-  },
-  {
-    "value": "rosbank.marketing-logic.ru"
-  },
-  {
-    "value": "194.48.97.120"
-  },
-  {
-    "value": "resourcetrans.ru"
-  },
-  {
-    "value": "demo.bankro.tech"
-  },
-  {
-    "value": "comt-c.ru"
-  },
-  {
-    "value": "109.74.128.150"
-  },
-  {
-    "value": "admkht.ru"
-  },
-  {
-    "value": "www.biradm.ru"
+    "value": "portal.fincert.cbr.ru"
   },
   {
     "value": "185.81.251.139"
@@ -3099,735 +297,1389 @@
     "value": "185.12.152.53"
   },
   {
-    "value": "vacma.ru"
+    "value": "195.94.237.106"
   },
   {
-    "value": "depository.ru"
+    "value": "85.236.9.28"
   },
   {
-    "value": "techmadness.ru"
+    "value": "217.74.43.138"
   },
   {
-    "value": "listen2.смартер.рф"
+    "value": "slido.com"
   },
   {
-    "value": "agent.stage.tkb-ip.ru"
+    "value": "sli.do"
   },
   {
-    "value": "newcontact.su"
+    "value": "sudrf.ru"
   },
   {
-    "value": "eis.newcontact.su"
+    "value": "esia.gosuslugi.ru"
   },
   {
-    "value": "tmweb.ru"
+    "value": "gosuslugi.ru"
   },
   {
-    "value": "balance-pl.ru"
+    "value": "91.208.232.174"
   },
   {
-    "value": "crm.callit.cc"
+    "value": "91.208.232.11"
   },
   {
-    "value": "osagoonline.info"
+    "value": "passport.moex.com"
   },
   {
-    "value": "orrla.ru"
+    "value": "cabinet.moex.com"
   },
   {
-    "value": "rvzr.ru"
+    "value": "api.moex.com"
   },
   {
-    "value": "gauzrvfd.ru"
+    "value": "moex.com"
   },
   {
-    "value": "sim-track.simbirsoft1.com"
+    "value": "credit.renlife.com"
   },
   {
-    "value": "c1.proofix.ru"
+    "value": "societegenerale.safe-access.com"
   },
   {
-    "value": "dl.labma.ru"
+    "value": "91.208.232.241"
   },
   {
-    "value": "nomerogram.ru"
+    "value": "91.208.232.240"
   },
   {
-    "value": "zenithoptimedia.com"
+    "value": "91.208.232.135"
   },
   {
-    "value": "sberbank-am.ru"
+    "value": "91.208.232.35"
   },
   {
-    "value": "securemailcenter.citigroup.com"
+    "value": "zakupki.gov.ru"
   },
   {
-    "value": "nalog.pravocard.ru"
+    "value": "rbgifts.ru"
   },
   {
-    "value": "peacfinance.ru"
+    "value": "ibank2.ru"
   },
   {
-    "value": "141.101.182.9"
+    "value": "ibank.ibec.ru"
   },
   {
-    "value": "ftp.itsph.ru"
+    "value": "zakazrf.ru"
   },
   {
-    "value": "tiplus.btc.info"
+    "value": "roseltorg.ru"
   },
   {
-    "value": "www.navi.su"
+    "value": "tektorg.ru"
   },
   {
-    "value": "www.gpbf.ru"
+    "value": "b2b-energo.ru"
   },
   {
-    "value": "lfpvk.ru"
+    "value": "b2b-center.ru"
   },
   {
-    "value": "fabrika-tender.ru"
+    "value": "b2b-mrsk.ru"
   },
   {
-    "value": "frame.goodconnection.ru"
+    "value": "rts-tender.ru"
   },
   {
-    "value": "it-alnc.ru"
+    "value": "etp-micex.ru"
   },
   {
-    "value": "login.windows.net"
+    "value": "sberbank-ast.ru"
   },
   {
-    "value": "kyzyl.edu17.ru"
+    "value": "citidirectbeportalemea.citidirect.com"
   },
   {
-    "value": "tradingview.com"
+    "value": "portal.citidirect.com"
   },
   {
-    "value": "cabinet.sim2m.ru"
+    "value": "sg-investpee2016.com"
   },
   {
-    "value": "servicedesk.apleona.ru.com"
+    "value": "citidirect.com"
   },
   {
-    "value": "pmi.com"
+    "value": "geo.kaspersky.com"
   },
   {
-    "value": "bars-sintez.ru"
+    "value": "77.74.176.43"
   },
   {
-    "value": "tags.bluekai.com"
+    "value": "77.74.176.45"
   },
   {
-    "value": "kuazot.ru"
+    "value": "93.159.231.21"
   },
   {
-    "value": "kartoshka.com"
+    "value": "93.159.231.20"
   },
   {
-    "value": "creditregistry.ru"
+    "value": "93.159.230.133"
   },
   {
-    "value": "www.lyxoretf.co.uk"
+    "value": "93.159.230.119"
   },
   {
-    "value": "sberleasing.ru"
+    "value": "94.75.236.123"
   },
   {
-    "value": "www.sberleasing.ru"
+    "value": "37.48.82.67"
   },
   {
-    "value": "www.farpost.ru"
+    "value": "80.231.123.131"
   },
   {
-    "value": "farpost.ru"
+    "value": "193.45.6.7"
   },
   {
-    "value": "netsuite.com"
+    "value": "81.19.104.111"
   },
   {
-    "value": "forms.office.com"
+    "value": "fp.kaspersky-labs.com"
   },
   {
-    "value": "login.live.com"
+    "value": "connect-23200.fp.kaspersky-labs.com"
   },
   {
-    "value": "products.office.com"
+    "value": "kaspersky-labs.com"
   },
   {
-    "value": "www.codeproject.com"
+    "value": "downloads.upd.kaspersky.com"
   },
   {
-    "value": "mypeopledoc.com"
+    "value": "s20.upd.kaspersky.com"
   },
   {
-    "value": "play.google.com"
+    "value": "s19.upd.kaspersky.com"
   },
   {
-    "value": "ltcompany.com"
+    "value": "s18.upd.kaspersky.com"
   },
   {
-    "value": "gitlab.com"
+    "value": "s17.upd.kaspersky.com"
   },
   {
-    "value": "hub.docker.com"
+    "value": "s16.upd.kaspersky.com"
   },
   {
-    "value": "payments.chronopay.com"
+    "value": "s15.upd.kaspersky.com"
   },
   {
-    "value": "1921345105.rsc.cdn77.org"
+    "value": "s14.upd.kaspersky.com"
   },
   {
-    "value": "jinga.ru"
+    "value": "s13.upd.kaspersky.com"
   },
   {
-    "value": "nam04.safelinks.protection.outlook.com"
+    "value": "s12.upd.kaspersky.com"
   },
   {
-    "value": "nam02.safelinks.protection.outlook.com"
+    "value": "s11.upd.kaspersky.com"
   },
   {
-    "value": "www.globexbank.ru"
+    "value": "s10.upd.kaspersky.com"
   },
   {
-    "value": "globexbank.ru"
+    "value": "s09.upd.kaspersky.com"
   },
   {
-    "value": "unsplash.com"
+    "value": "s08.upd.kaspersky.com"
   },
   {
-    "value": "www.fontanka.ru"
+    "value": "s07.upd.kaspersky.com"
   },
   {
-    "value": "www.ccb.com"
+    "value": "s06.upd.kaspersky.com"
   },
   {
-    "value": "ccb.com"
+    "value": "s05.upd.kaspersky.com"
   },
   {
-    "value": "finwin.ru"
+    "value": "s04.upd.kaspersky.com"
   },
   {
-    "value": "tourvisor.ru"
+    "value": "s03.upd.kaspersky.com"
   },
   {
-    "value": "regioncom.ru"
+    "value": "s02.upd.kaspersky.com"
   },
   {
-    "value": "informatica.com"
+    "value": "s01.upd.kaspersky.com"
   },
   {
-    "value": "mckinsey.com"
+    "value": "kaspersky.com"
   },
   {
-    "value": "tdn.r42tag.com"
+    "value": "trendmicro.com"
   },
   {
-    "value": "financevent.ru"
+    "value": "mcafee.com"
   },
   {
-    "value": "nextcontact.ru"
+    "value": "canalchat.fr"
   },
   {
-    "value": "realtimeboard.com"
+    "value": "update-rfrt.taxcom.ru"
   },
   {
-    "value": "br-analytics.ru"
+    "value": "taxcom.ru"
   },
   {
-    "value": "agroinfo.com"
+    "value": "socgen-ins.ru"
   },
   {
-    "value": "217.14.18.214"
+    "value": "sgstrakhovanie.ru"
   },
   {
-    "value": "etp-ets.ru"
+    "value": "sgstrahovanie.ru"
   },
   {
-    "value": "jira.akb-it.ru"
+    "value": "sg-strakhovanie.ru"
   },
   {
-    "value": "saml.docsourcing.com"
+    "value": "sg-strahovanie.ru"
   },
   {
-    "value": "freeformatter.com"
+    "value": "socgenins.ru"
   },
   {
-    "value": "otzyv.ru"
+    "value": "sginsurance.ru"
   },
   {
-    "value": "yit.su"
+    "value": "sgins.ru"
   },
   {
-    "value": "grafana.org"
+    "value": "sg-insurance.ru"
   },
   {
-    "value": "morskoybank.com"
+    "value": "dh1.efir-net.ru"
   },
   {
-    "value": "piter.com"
+    "value": "old-dh.efir-net.ru"
   },
   {
-    "value": "kartoteka.ru"
+    "value": "new-datahub.efir-net.ru"
   },
   {
-    "value": "csm-testcenter.org"
+    "value": "efir-net.ru"
   },
   {
-    "value": "focus.gfk.ru"
+    "value": "talent-q.pro"
   },
   {
-    "value": "broadcast.comdi.com"
+    "value": "alfabank.ru"
   },
   {
-    "value": "1cont.ru"
+    "value": "ipokalc.ru"
   },
   {
-    "value": "www.php.net"
+    "value": "ucprofit2012.ru"
   },
   {
-    "value": "php.net"
+    "value": "rosbank.alpinadigital.ru"
   },
   {
-    "value": "bellerage.com"
+    "value": "lib.alpinadigital.ru"
   },
   {
-    "value": "valuehost.ru"
+    "value": "83.234.76.10"
   },
   {
-    "value": "picosoft.ru"
+    "value": "pkitrans.ru"
   },
   {
-    "value": "700.su"
+    "value": "etzp.rzd.ru"
   },
   {
-    "value": "oil-service.com"
+    "value": "360t.com"
   },
   {
-    "value": "comita.ru"
+    "value": "ipsos-archway.com"
   },
   {
-    "value": "gorod-elista.ru"
+    "value": "ipsosinteractive.com"
   },
   {
-    "value": "ulan-ude-eg.ru"
+    "value": "ipsos.com"
   },
   {
-    "value": "myip.ru"
+    "value": "fcsm.ru"
   },
   {
-    "value": "3ds.ndb24.ru"
+    "value": "cbr.ru"
   },
   {
-    "value": "mastercard.na1.echosign.com"
+    "value": "socgen.csod.com"
   },
   {
-    "value": "mon-bon.ru"
+    "value": "gosmonitor.ru"
   },
   {
-    "value": "scorecardresearch.com"
+    "value": "vashkontrol.ru"
   },
   {
-    "value": "maxdone.micromiles.co"
+    "value": "fssprus.ru"
   },
   {
-    "value": "lookbookhq.com"
+    "value": "areyounet.com"
   },
   {
-    "value": "88003330775.ru"
+    "value": "arkadin.com"
   },
   {
-    "value": "nginx.com"
+    "value": "arkadin.fr"
   },
   {
-    "value": "content.rbc.medialand.ru"
+    "value": "anywhereconference.com"
   },
   {
-    "value": "engine.rbc.medialand.ru"
+    "value": "gov.ru"
   },
   {
-    "value": "severstal-avia.ru"
+    "value": "base.icpress.ru"
   },
   {
-    "value": "kosmos-tools.ru"
+    "value": "aok.arcot.com"
   },
   {
-    "value": "wqimg.com"
+    "value": "barcap.com"
   },
   {
-    "value": "conversion.authorstream.com"
+    "value": "verisign.com"
   },
   {
-    "value": "dev.visualwebsiteoptimizer.com"
+    "value": "sogecap.net"
   },
   {
-    "value": "krylatskoe.com"
+    "value": "pcnomade-arpege.com"
   },
   {
-    "value": "secure.logmeinrescue-enterprise.com"
+    "value": "clicktools.com"
   },
   {
-    "value": "asros.ru"
+    "value": "refinitiv.biz"
   },
   {
-    "value": "highlandgold.com"
+    "value": "refinitiv.net"
   },
   {
-    "value": "krl-uprava.ru"
+    "value": "refinitiv.com"
   },
   {
-    "value": "4service.ru"
+    "value": "thomsonreuters.net"
   },
   {
-    "value": "4service-group.com"
+    "value": "thomsonreuters.biz"
   },
   {
-    "value": "assets-cdn.github.com"
+    "value": "thomsonreuters.biz"
   },
   {
-    "value": "projects.invisionapp.com"
+    "value": "thomsonreuters.com"
   },
   {
-    "value": "forum.guns.ru"
+    "value": "store.rosbankinsurance.ru"
   },
   {
-    "value": "ftp.ext.hpe.com"
+    "value": "rosbankinsurance.ru"
   },
   {
-    "value": "net.mail.ru"
+    "value": "sg-ins.ru"
   },
   {
-    "value": "управляемыеуслуги.рф"
+    "value": "lkul.nalog.ru"
   },
   {
-    "value": "управляемыеуслуги.рф"
+    "value": "service.nalog.ru"
   },
   {
-    "value": "carrier-russia.ru"
+    "value": "lk3.nalog.ru"
   },
   {
-    "value": "одцугр.рф"
+    "value": "nalog.ru"
   },
   {
-    "value": "vladzernoproduct.ru"
+    "value": "sgcib.com"
   },
   {
-    "value": "veeam.ru"
+    "value": "rtsnet.ru"
   },
   {
-    "value": "maatb2.ru"
+    "value": "akamaicdn.webex.com"
   },
   {
-    "value": "risksoft.su"
+    "value": "socgen.webex.com"
   },
   {
-    "value": "kmbank.ru"
+    "value": "visa.com.ru"
   },
   {
-    "value": "yamahastarclub.ru"
+    "value": "cyberu.com"
   },
   {
-    "value": "tenantsportal.com"
+    "value": "sgrh-ext.com"
   },
   {
-    "value": "niipav.ru"
+    "value": "recrutement-societegenerale.com"
   },
   {
-    "value": "bcsupport.ru"
+    "value": "collaboratif-sg.com"
   },
   {
-    "value": "securemail.bnymellon.com"
+    "value": "successfactors.com"
   },
   {
-    "value": "bankinsider.ru"
+    "value": "successfactors.eu"
   },
   {
-    "value": "meetup.com"
+    "value": "cabinet.nsd.ru"
   },
   {
-    "value": "gitbook.com"
+    "value": "tezis.payhd.ru"
   },
   {
-    "value": "edi.su"
+    "value": "banklk2.payhd.ru"
   },
   {
-    "value": "metrika.yandex.ru"
+    "value": "gost.nsd.ru"
   },
   {
-    "value": "ulraion.ru"
+    "value": "gost-g.nsd.ru"
   },
   {
-    "value": "ackye.ru"
+    "value": "edog.nsd.ru"
   },
   {
-    "value": "109.238.244.230"
+    "value": "perevod-korona.com"
   },
   {
-    "value": "91.244.183.48"
+    "value": "www.custody.ru"
   },
   {
-    "value": "comearth.ru"
+    "value": "custody.ru"
   },
   {
-    "value": "кодыросстата.рф"
+    "value": "fundsettle.euroclearonline.com"
   },
   {
-    "value": "кодыросстата.рф"
+    "value": "renins.com"
   },
   {
-    "value": "portail.mediacompil.com"
+    "value": "95.167.169.164"
   },
   {
-    "value": "rwmcapital.ru"
+    "value": "gmcgks.ru"
   },
   {
-    "value": "umfc.mfc61.ru"
+    "value": "productbrandstandards.com"
   },
   {
-    "value": "oblstat.tom.ru"
+    "value": "mastercard.com"
   },
   {
-    "value": "sweetcard.com"
+    "value": "techdocs.mastercard.com"
   },
   {
-    "value": "alpinadigital.ru"
+    "value": "assets.adobedtm.com"
   },
   {
-    "value": "якутск.рф"
+    "value": "www.adobetag.com"
   },
   {
-    "value": "якутск.рф"
+    "value": "w204.mastercardconnect.com"
   },
   {
-    "value": "аэропортастрахань.рф"
+    "value": "w201.mastercardconnect.com"
   },
   {
-    "value": "аэропортастрахань.рф"
+    "value": "smetrics.mastercard.com"
   },
   {
-    "value": "покупной.рф"
+    "value": "www.mastercardconnect.com"
   },
   {
-    "value": "покупной.рф"
+    "value": "mastercardconnect.com"
   },
   {
-    "value": "gts39.ru"
+    "value": "sso.zoominsoftware.com"
   },
   {
-    "value": "krsk-sbit.ru"
+    "value": "mastercard.net"
   },
   {
-    "value": "moodle.inter-prof74.ru"
+    "value": "jcbcard.com"
   },
   {
-    "value": "portal2.ms-check.ru"
+    "value": "visabscemea.com"
   },
   {
-    "value": "portal.ms-check.ru"
+    "value": "visacemea.com"
   },
   {
-    "value": "go.naveo.ru"
+    "value": "visaonline.com"
   },
   {
-    "value": "mysafety.ru"
+    "value": "visa.com.ru"
   },
   {
-    "value": "rb-securities.ru"
+    "value": "visa.com"
   },
   {
-    "value": "msk-app.beeper.ru"
+    "value": "mastercardonline.com"
   },
   {
-    "value": "akvilon-invest.ru"
+    "value": "mastercard.com"
   },
   {
-    "value": "olimpoks.itprofi.pro"
+    "value": "sgfamily.ru"
   },
   {
-    "value": "gilcom.ru"
+    "value": "bsgv.ru"
   },
   {
-    "value": "mascomsoft.ru"
+    "value": "customs.ru"
   },
   {
-    "value": "ecb.europa.eu"
+    "value": "icrs-gost12tmp.nbki.ru"
   },
   {
-    "value": "nizhhleb.ru"
+    "value": "icrs.nbki.ru"
   },
   {
-    "value": "newsvm.ru"
+    "value": "nbki.ru"
   },
   {
-    "value": "provincialynews.ru"
+    "value": "nwbch.ru"
   },
   {
-    "value": "newslab.su"
+    "value": "87.245.210.146"
   },
   {
-    "value": "newsem.ru"
+    "value": "109.95.80.75"
   },
   {
-    "value": "vz.ru"
+    "value": "mail.rfipoteka.ru"
   },
   {
-    "value": "crimea-news.org"
+    "value": "ssl.croinform.ru"
   },
   {
-    "value": "aif.ru"
+    "value": "croinform.ru"
   },
   {
-    "value": "datasite.merrillcorp.com"
+    "value": "mbcredit.ru"
   },
   {
-    "value": "allianz-invest.ru"
+    "value": "sogecap.com"
   },
   {
-    "value": "минфинрб.рф"
+    "value": "societegenerale.fr"
   },
   {
-    "value": "минфинрб.рф"
+    "value": "societegenerale.com"
   },
   {
-    "value": "securemail.bankofamerica.com"
+    "value": ".socgen.com"
   },
   {
-    "value": "gmeconfigurator.com"
+    "value": "socgen.com"
   },
   {
-    "value": "naloga.ru"
+    "value": "isb.deltacredit.ru"
   },
   {
-    "value": "nalogypro.ru"
+    "value": "isbapi.deltacredit.ru"
   },
   {
-    "value": "bat.com"
+    "value": "isbtestapi.deltacredit.ru"
   },
   {
-    "value": "batrussia.ru"
+    "value": "deltacredit.ru"
   },
   {
-    "value": "imperial-tobacco.com"
+    "value": "ftls.sberbank.ru"
   },
   {
-    "value": "rt.ru"
+    "value": "token-finline.sberbank.ru"
   },
   {
-    "value": "bluejeans.com"
+    "value": "sberbank.ru"
   },
   {
-    "value": "debtdomain.com"
+    "value": "inkakhran.ru"
   },
   {
-    "value": "intralinks.com"
+    "value": "www.icb.ors.ru"
   },
   {
-    "value": "intercall.com"
+    "value": "ors.ru"
   },
   {
-    "value": "github.com"
+    "value": "trosbank.ru"
   },
   {
-    "value": "bitbucket.org"
+    "value": "home.rosbank.ru"
   },
   {
-    "value": "bitbucket.com"
+    "value": "tlsgw.rosbank.ru"
   },
   {
-    "value": "your-wra.com"
+    "value": "secure.rosbank.ru"
   },
   {
-    "value": "hsto.org"
+    "value": "as.rosbank.ru"
   },
   {
-    "value": "habrastorage.org"
+    "value": "www.rosbank.ru"
   },
   {
-    "value": "intercallonline.com"
+    "value": "owa.rosbank.ru"
   },
   {
-    "value": "roe.ru"
+    "value": "api.rosbank.ru"
   },
   {
-    "value": "xakep.ru"
+    "value": "mapi.rosbank.ru"
   },
   {
-    "value": "obr1016.ru"
+    "value": "online.rosbank.ru"
   },
   {
-    "value": "tlsgroup.ru"
+    "value": "lk.rosbank-capital.ru"
   },
   {
-    "value": "remy-cointreau.com"
+    "value": "agent.rosbank-capital.ru"
   },
   {
-    "value": "senseit.ru"
+    "value": "rosbank-capital.ru"
   },
   {
-    "value": "360-ambassadors-socgen.com"
+    "value": "store-test.rosbank.ru"
   },
   {
-    "value": "conferencing-tools.com"
+    "value": "store-cert.rosbank.ru"
   },
   {
-    "value": "on24.com"
+    "value": "ibank.rosbank.ru"
   },
   {
-    "value": "onlineseminarsolutions.com"
+    "value": "ib.rosbank.ru"
   },
   {
-    "value": "amwine.ru"
+    "value": "autodiscover.rosbank.ru"
   },
   {
-    "value": "74.ru"
+    "value": "mail.rosbank.com"
   },
   {
-    "value": "russianstandard.com"
+    "value": "autodiscover.rosbank.com"
   },
   {
-    "value": "tradsef.com"
+    "value": "rosbank-trading.ru"
   },
   {
-    "value": "trademx.com"
+    "value": "rosbank-auto.ru"
   },
   {
-    "value": "rl0.ru"
+    "value": "rosbank-dom.ru"
   },
   {
-    "value": "gisstatic.ru"
+    "value": "rosbank.com"
   },
   {
-    "value": "smstraffic.ru"
+    "value": "rosbank.ru"
   },
   {
-    "value": "prezi.com"
+    "value": "icb.bankline.ru"
   },
   {
-    "value": "rdrom.ru"
+    "value": "www6.bankline.ru"
   },
   {
-    "value": "captcha.oml.ru"
+    "value": "www5.bankline.ru"
   },
   {
-    "value": "eicar.org"
+    "value": "www4.bankline.ru"
   },
   {
-    "value": "www.centos.org"
+    "value": "www3.bankline.ru"
   },
   {
-    "value": "centos.org"
+    "value": "www2.bankline.ru"
   },
   {
-    "value": "securelist.com"
+    "value": "www1.bankline.ru"
   },
   {
-    "value": "hpe.com"
+    "value": "www.bankline.ru"
+  },
+  {
+    "value": "bankline.ru"
+  },
+  {
+    "value": "aldautomotive.ru"
+  },
+  {
+    "value": "dbo.rusfinance.ru"
+  },
+  {
+    "value": "mortgage.rosbank-dom.ru"
+  },
+  {
+    "value": "isbtestapi.rosbank-dom.ru"
+  },
+  {
+    "value": "isbapi.rosbank-dom.ru"
+  },
+  {
+    "value": "isb.rosbank-dom.ru"
+  },
+  {
+    "value": "rusfinancebank.ru"
+  },
+  {
+    "value": "rusfinance.ru"
+  },
+  {
+    "value": "thawte.com"
+  },
+  {
+    "value": "faktura.ru"
+  },
+  {
+    "value": "symcd.com"
+  },
+  {
+    "value": "symcb.com"
+  },
+  {
+    "value": "proxy-crl.bluecoat.com"
+  },
+  {
+    "value": "fe2.update.microsoft.com"
+  },
+  {
+    "value": "sws.update.microsoft.com"
+  },
+  {
+    "value": "sls.update.microsoft.com"
+  },
+  {
+    "value": "loystg-xml-online.demo.korona.net"
+  },
+  {
+    "value": "loystg-api.demo.korona.net"
+  },
+  {
+    "value": "api2.korona.net"
+  },
+  {
+    "value": "dp.korona.net"
+  },
+  {
+    "value": "korona.net"
+  },
+  {
+    "value": "www.cbr.ru"
+  },
+  {
+    "value": "cbr.ru"
+  },
+  {
+    "value": "officeclient.microsoft.com"
+  },
+  {
+    "value": "templatesmetadata.office.net"
+  },
+  {
+    "value": "survey.valuescentre.com"
+  },
+  {
+    "value": "primezone.ru"
+  },
+  {
+    "value": "ecopsy.ru"
+  },
+  {
+    "value": "qlikcloud.com"
+  },
+  {
+    "value": "cbrates.rbc.ru"
+  },
+  {
+    "value": "sg-bcbs239.com"
+  },
+  {
+    "value": "cominterne-sg.enquetes.bva.fr"
+  },
+  {
+    "value": "mail.rusfinance.ru"
+  },
+  {
+    "value": "autodiscover.rusfinance.ru"
+  },
+  {
+    "value": "meet.kb.cz"
+  },
+  {
+    "value": "meet.rusfinance.ru"
+  },
+  {
+    "value": "meet.rosbank.com"
+  },
+  {
+    "value": "meet.rosbank.ru"
+  },
+  {
+    "value": "meet.deltacredit.ru"
+  },
+  {
+    "value": "meet.lync.com"
+  },
+  {
+    "value": "yastatic.net"
+  },
+  {
+    "value": "api-maps.yandex.ru"
+  },
+  {
+    "value": "enterprise.api-maps.yandex.ru"
+  },
+  {
+    "value": "msdl.microsoft.com/download/symbols"
+  },
+  {
+    "value": "eis.ahml.ru"
+  },
+  {
+    "value": "fx-prd-backup-we.service.signalr.net"
+  },
+  {
+    "value": "fx-prd-we.service.signalr.net"
+  },
+  {
+    "value": "sgmarkets.com"
+  },
+  {
+    "value": "sso.sgmarkets.com"
+  },
+  {
+    "value": "euro.confirmit.com"
+  },
+  {
+    "value": "bva-for-sg.com"
+  },
+  {
+    "value": "autodiscover.rosbankru.onmicrosoft.com"
+  },
+  {
+    "value": "autodiscover-s.outlook.com"
+  },
+  {
+    "value": "skypeforbusiness.com"
+  },
+  {
+    "value": "broadcast.skype.com"
+  },
+  {
+    "value": "api.scheduler.teams.microsoft.com"
+  },
+  {
+    "value": "tr.teams.microsoft.com"
+  },
+  {
+    "value": "turn.teams.microsoft.com"
+  },
+  {
+    "value": "relay.teams.microsoft.com"
+  },
+  {
+    "value": "lync.com"
+  },
+  {
+    "value": "awmdm.com"
+  },
+  {
+    "value": "getwsone.com"
+  },
+  {
+    "value": "air-watch.com"
+  },
+  {
+    "value": "autologon.microsoftazuread-sso.com"
+  },
+  {
+    "value": "device.login.microsoftonline.com"
+  },
+  {
+    "value": "login.microsoftonline.com"
+  },
+  {
+    "value": "enterpriseregistration.windows.net"
+  },
+  {
+    "value": "ataccama.s3.amazonaws.com"
+  },
+  {
+    "value": "get-my-gifts.com"
+  },
+  {
+    "value": "filetransfert-societegenerale.com"
+  },
+  {
+    "value": "nn-card.ru"
+  },
+  {
+    "value": "gwevents.checkpoint.com"
+  },
+  {
+    "value": "tsp.e-notary.ru"
+  },
+  {
+    "value": "crypto.region.ru"
+  },
+  {
+    "value": "login.region.ru"
+  },
+  {
+    "value": "edo.region.ru"
+  },
+  {
+    "value": "weblink.bki-okb.com"
+  },
+  {
+    "value": "bki-okb.com"
+  },
+  {
+    "value": "bki-okb.ru"
+  },
+  {
+    "value": "ssl.budgetplan.minfin.ru"
+  },
+  {
+    "value": "rosswift.ru"
+  },
+  {
+    "value": "frbservices.org"
+  },
+  {
+    "value": "theclearinghouse.org"
+  },
+  {
+    "value": "sbapi.group-ib.ru"
+  },
+  {
+    "value": "group-ib.com"
+  },
+  {
+    "value": "group-ib.ru"
+  },
+  {
+    "value": "iban.com"
+  },
+  {
+    "value": "swift.com"
+  },
+  {
+    "value": "interros.ru"
+  },
+  {
+    "value": "api.orangedata.ru"
+  },
+  {
+    "value": "web.yammer.com"
+  },
+  {
+    "value": "checkappexec.microsoft.com"
+  },
+  {
+    "value": "smartscreen-prod.microsoft.com"
+  },
+  {
+    "value": "smartscreen.microsoft.com"
+  },
+  {
+    "value": "nav.smartscreen.microsoft.com"
+  },
+  {
+    "value": "groupsg001.sharepoint.com"
+  },
+  {
+    "value": "world-socgen.com"
+  },
+  {
+    "value": "filetransfert-societegenerale.com"
+  },
+  {
+    "value": "swift-communities.force.com"
+  },
+  {
+    "value": "translate.yandex.ru"
+  },
+  {
+    "value": "translate.google.com"
+  },
+  {
+    "value": "esalia.com"
+  },
+  {
+    "value": "wgcs.mcafee-cloud.com"
+  },
+  {
+    "value": "saasprotection.com"
+  },
+  {
+    "value": "mcp.webwasher.com"
+  },
+  {
+    "value": "myshn.net"
+  },
+  {
+    "value": "221.6.24.132:8443"
+  },
+  {
+    "value": "180.96.4.155:8443"
+  },
+  {
+    "value": "114.80.154.57:8443"
+  },
+  {
+    "value": "221.6.24.133:8443"
+  },
+  {
+    "value": "180.96.4.154:8443"
+  },
+  {
+    "value": "114.80.154.56:8443"
+  },
+  {
+    "value": "221.6.24.138:8443"
+  },
+  {
+    "value": "180.96.4.153:8443"
+  },
+  {
+    "value": "114.80.154.55:8443"
+  },
+  {
+    "value": "221.6.24.139:8443"
+  },
+  {
+    "value": "180.96.8.54:8443"
+  },
+  {
+    "value": "114.80.154.54:8443"
+  },
+  {
+    "value": "221.6.24.137:8443"
+  },
+  {
+    "value": "180.96.8.53:8443"
+  },
+  {
+    "value": "114.80.154.53:8443"
+  },
+  {
+    "value": "221.6.24.142:8443"
+  },
+  {
+    "value": "180.96.8.52:8443"
+  },
+  {
+    "value": "114.80.154.52:8443"
+  },
+  {
+    "value": "221.6.24.136:8443"
+  },
+  {
+    "value": "180.96.4.151:8443"
+  },
+  {
+    "value": "114.80.154.51:8443"
+  },
+  {
+    "value": "221.6.24.135:8443"
+  },
+  {
+    "value": "180.96.8.19:8443"
+  },
+  {
+    "value": "114.80.154.50:8443"
+  },
+  {
+    "value": "221.6.24.134:8443"
+  },
+  {
+    "value": "180.96.8.16:8443"
+  },
+  {
+    "value": "114.80.154.49:8443"
+  },
+  {
+    "value": "122.96.62.237:8443"
+  },
+  {
+    "value": "180.96.4.140:8443"
+  },
+  {
+    "value": "114.80.154.48:8443"
+  },
+  {
+    "value": "122.96.62.232:8443"
+  },
+  {
+    "value": "180.96.4.139:8443"
+  },
+  {
+    "value": "114.80.154.47:8443"
+  },
+  {
+    "value": "122.96.62.229:8443"
+  },
+  {
+    "value": "180.96.4.138:8443"
+  },
+  {
+    "value": "114.80.154.46:8443"
+  },
+  {
+    "value": "122.96.62.228:8443"
+  },
+  {
+    "value": "180.96.4.136:8443"
+  },
+  {
+    "value": "114.80.154.45:8443"
+  },
+  {
+    "value": "122.96.62.234:8443"
+  },
+  {
+    "value": "180.96.8.44:8443"
+  },
+  {
+    "value": "114.80.154.44:8443"
+  },
+  {
+    "value": "122.96.62.227:8443"
+  },
+  {
+    "value": "180.96.8.18:8443"
+  },
+  {
+    "value": "114.80.154.43:8443"
+  },
+  {
+    "value": "122.96.62.231:8443"
+  },
+  {
+    "value": "180.96.8.17:8443"
+  },
+  {
+    "value": "114.80.154.42:8443"
+  },
+  {
+    "value": "122.96.62.233:8443"
+  },
+  {
+    "value": "180.96.8.11:8443"
+  },
+  {
+    "value": "114.80.154.40:8443"
+  },
+  {
+    "value": "122.96.62.235:8443"
+  },
+  {
+    "value": "180.96.8.10:8443"
+  },
+  {
+    "value": "114.80.154.39:8443"
+  },
+  {
+    "value": "122.96.62.230:8443"
+  },
+  {
+    "value": "180.96.4.134:8443"
+  },
+  {
+    "value": "114.80.154.35:8443"
+  },
+  {
+    "value": "122.96.62.236:8443"
+  },
+  {
+    "value": "180.96.4.130:8443"
+  },
+  {
+    "value": "114.80.154.33:8443"
+  },
+  {
+    "value": "125.215.147.45:8443"
+  },
+  {
+    "value": "125.215.147.43:8443"
+  },
+  {
+    "value": "125.215.147.42:8443"
+  },
+  {
+    "value": "125.215.147.41:8443"
+  },
+  {
+    "value": "125.215.147.40:8443"
+  },
+  {
+    "value": "125.215.147.39:8443"
+  },
+  {
+    "value": "125.215.147.38:8443"
+  },
+  {
+    "value": "125.215.147.37:8443"
+  },
+  {
+    "value": "125.215.147.36:8443"
+  },
+  {
+    "value": "125.215.147.35:8443"
+  },
+  {
+    "value": "125.215.147.34:8443"
+  },
+  {
+    "value": "msecnd.net"
+  },
+  {
+    "value": "azurewebsites.net"
+  },
+  {
+    "value": "windowsupdate.com"
+  },
+  {
+    "value": "github-releases.githubusercontent.com"
+  },
+  {
+    "value": "microsoftonline.com"
+  },
+  {
+    "value": "windows.net"
+  },
+  {
+    "value": "visualstudio.microsoft.com"
+  },
+  {
+    "value": "gallerycdn.vsassets.io"
+  },
+  {
+    "value": "marketplace.visualstudio.com"
+  },
+  {
+    "value": "xamarin-downloads.azureedge.net"
+  },
+  {
+    "value": "dl.xamarin.com"
+  },
+  {
+    "value": "download.visualstudio.com"
+  },
+  {
+    "value": "download.microsoft.com"
+  },
+  {
+    "value": "download.visualstudio.microsoft.com"
   },
   {
     "value": "aka.ms"
   },
   {
-    "value": "myshn.net"
+    "value": "msftconnecttest.com"
+  },
+  {
+    "value": "data.microsoft.com"
+  },
+  {
+    "value": "go.microsoft.com"
+  },
+  {
+    "value": "188.254.86.136:8081"
+  },
+  {
+    "value": "portal.fedsfm.ru:8081"
+  },
+  {
+    "value": "portal.fedsfm.ru"
+  },
+  {
+    "value": "device.login.microsoftonline.com"
+  },
+  {
+    "value": "login.microsoftonline.com"
+  },
+  {
+    "value": "enterpriseregistration.windows.net"
+  },
+  {
+    "value": "login.windows.net"
+  },
+  {
+    "value": "login.live.com"
+  },
+  {
+    "value": "ibm.com"
+  },
+  {
+    "value": "oracle.com"
+  },
+  {
+    "value": "iv231.unicredit.ru"
+  },
+  {
+    "value": "registeronce.autodesk.com"
+  },
+  {
+    "value": "api.autodesk.com"
+  },
+  {
+    "value": "clic.autodesk.com"
+  },
+  {
+    "value": "accounts.autodesk.com"
+  },
+  {
+    "value": "cur.autodesk.com"
+  },
+  {
+    "value": "195.26.187.144"
+  },
+  {
+    "value": "cryptopro.ru"
+  },
+  {
+    "value": "diasoft.ru"
+  },
+  {
+    "value": "jmsgw.ediweb.ru"
+  },
+  {
+    "value": "efir-net.ru"
+  },
+  {
+    "value": "outlookdiagnostics.azureedge.net"
+  },
+  {
+    "value": "join.slack.com"
+  },
+  {
+    "value": "sberbank.ru"
   }
 ]
